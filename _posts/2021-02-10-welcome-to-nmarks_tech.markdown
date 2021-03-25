@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to nmarks.info!"
 date:   2021-02-10 16:01:15 -0800
 categories: nmarks.tech
-permalink: /post/0
+permalink: /posts/0
 ---
 
 
