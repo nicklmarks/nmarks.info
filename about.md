@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /about
 ---
 
 ## Welcome to nmarks.tech blog
