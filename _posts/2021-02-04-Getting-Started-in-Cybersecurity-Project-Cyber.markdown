@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Started in Cybersecurity -- Project Cyber Advsior"
 date:   2021-02-04 14:00:00 -0800
 categories: Project Cyber Advsior
-permalink: /posts/1
+permalink: /post/1
 ---
 
 *Author: Nicholas Marks*
