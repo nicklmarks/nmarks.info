@@ -17,4 +17,4 @@ this blog is hosted using github pages and the jekyll ruby packages hacker theme
 
 
 
-[back](./nmarks.info/)
+[back](./)
