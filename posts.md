@@ -13,4 +13,4 @@ Getting Started in Cybersecurity -- Project Cyber Advsior: [Getting Started in C
 
 Template: [Template](./posts/2).
 
-[back](./nmarks.info/)
+[back](./)

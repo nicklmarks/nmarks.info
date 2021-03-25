@@ -12,5 +12,5 @@ Welcome to the website launch for nmarks.info.
 I will be writing about general computer and technical topics/concepts. Some of my favorite topics lately revolve around Informarion Security.
 I hope to share information about programming languages, scripting, certification study guides, capture the flag events, challenge walkthroughs, and development guides.
 
-[back](./nmarks.info/)
+[back](./)
 
